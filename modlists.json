@@ -1,1 +1,41 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ground Zero",
+    "description": "Ground Zero is the ultimate zombie apocalypse experience and focuses on an alternate vision of the Commonwealth that has instead been overtaken by the ramifications of a deadly viral outbreak. As a military operative it will be your mission to enter the Commonwealth and eradicate any trace of the virus and its infected victims. There are also features around base-building and survivor rescue/recruitment if you are interested in the "rebuilding society" angle of things. Most vanilla quests/NPC's and much of the base game content has been replaced with more appropriate dynamic systems for a zombie apocalypse playthrough with other missions/quests/objectives to lead you along your way. ",
+    "author": "ScreamingLake",
+    "maintainers": [
+      "github/screaminglake"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Zombie Apocalypse",
+      "Experience",
+      "Unofficial"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/GzURfTC.png",
+      "readme": "https://www.fallout4experiences.com/ground-zero",
+      "download": "https://authored-files.wabbajack.org/Ground%20Zero.wabbajack_ea8242cb-ad28-4df4-82fe-1ac7f23bf890",
+      "machineURL": "groundzero",
+      "discordURL": "https://discord.gg/strraNQxEQ"
+    },
+    "download_metadata": {
+        "$type": "DownloadMetadata, Wabbajack.Lib",
+        "Hash": "6YefFgNtbQs=",
+        "Size": 7890681,
+        "NumberOfArchives": 216,
+        "SizeOfArchives": 14468673313,
+        "NumberOfInstalledFiles": 8959,
+        "SizeOfInstalledFiles": 20562352451
+    },
+    "version": "1.0",
+    "RepositoryName": ""
+  }
+]
