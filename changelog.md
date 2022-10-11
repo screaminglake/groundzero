@@ -17,7 +17,7 @@
   -Added MK23 SOCOM (added to stash behind player home and QMW-compatible) <br />
   -Added SG550 (added to stash behind player home and QMW-compatible) <br />
   -Added Mac-10 (added to stash behind player home and QMW-compatible) <br />
-  -Reworked Levelled Lists to add many new creatures for additional diversity and also staggers based on player level for additional sense of progression <br />
+  -Reworked Levelled Lists to add many new creatures (and remove feral brutes) for additional diversity and also staggers based on player level for additional sense of progression <br />
   -Increased spawns in certain areas <br />
   -Increased PipBoy font size and ensured white background <br />
   -Subway Safehouse Player Home should now be accessible by looting keycard from corpse <br />
