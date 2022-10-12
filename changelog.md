@@ -1,3 +1,7 @@
+# 1.1.1
+
+  -Removed custom campsite from AN 76 which was being flagged as a settlement with no boundaries by the infestation system
+
 # 1.1
 
   -Added Journal of the Sole Survivor (added to stash behind player home) <br />
