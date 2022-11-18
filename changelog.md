@@ -1,3 +1,38 @@
+# 1.2
+
+  -Most of the setup workflow for Ground Zero has now been automated via the new MCM settings preset so be sure to read the Holotape and MCM Configuration section of the documentation or watch the new Introduction to Ground Zero video for 1.2 to see the new expedited setup workflow.  Big thanks to M8r98a4f2 for their amazing work with converting cumbersome holotapes into MCM settings menu's which can be stored and easily applied by any user using MCM settings manager! <br />
+  
+  -Added Feral Infestations (new infestations will appear dynamically across the Commonwealth with a new miscellaneous objective to clear them out.  More will form over time and the size of the infestation will "level up" every 24 hours that it goes uncontained until it maxes out and proceeds to attack the closest settlement) <br />
+  
+  -Added Settlement Attack Spawns Outside the Settlement and SKK Move Workshop Markers to help users mitigate settlement attacks popping up within closed off settlements (sadly this cannot be entirely avoided due to F4 engine issues with AI pathing.  Recommended to sleep indoors or within a constructible workshop bunker which counts as an interior at night) <br />
+  
+  -Added comprehensive sound overhaul featuring Bullet Impact Overhaul, Modern Warfare Explosions, Physics Impact Overhaul and Bullet Casing Sounds, Melee Impact Sounds, and NPC Footstep Overhaul <br />
+  
+  -Added Bullet in the Chamber (allows for ammo check with Z hotkey and lower/holster weapon with U hotkey) <br />
+  -Added Nightmare Raiders and allowed for raider spawns with NPC's Travel to introduce rare human enemy encounters <br />
+  -Added Thermal Vision Framework (operative is now equipped with an implant to allow for thermal or night vision without the need for physical equipment with T hotkey for thermal vision and Y hotkey for night vision) <br />
+  -Added Zen Trash Piles retexture <br />
+  -Added Dark Sci-Fi Vault Retexture <br />
+  -Added Stumble Upon Interiors <br />
+  -Added Inside Jobs - Commonwealth Interior Add-on <br />
+  -Added Modern Warfare Minigun with replacer of vanilla minigun <br />
+  -Updated Equipment and Crafting Overhaul and its universal workbench patch <br />
+  -Updated Resident Evil Saferooms (5 new saferooms, RPD expansion, and a new global stash connecting them all!) <br />
+  -Updated More Feral Ghouls (additional bloody details/decals, new sounds, severable body parts!) <br />
+  -Updated Wetness Shader Fix <br />
+  -Updated Levelled Item Framework <br />
+  -Updated Workshop Plus <br />
+  -Updated Workshop Framework <br />
+  -Updated FallUI Workbench <br />
+  -Updated FallUI Inventory <br />
+  -Updated FallUI HUD <br />
+  -Updated MCM Settings Manager <br />
+  -Updated Creative Perks and Creative Perks Plus <br />
+  -Updated LOST Audio Tweaks <br />
+  -Removed Feral Spitters and Pukers from spawn rotations <br />
+  -Removed West-Tek Tactical Optics (deprecated by thermal vision framework) <br />
+  -Removed Worldwide Ghouls and double spawns (should help with freezing issues)
+
 # 1.1.1
 
   -Removed custom campsite from AN 76 which was being flagged as a settlement with no boundaries by the infestation system
