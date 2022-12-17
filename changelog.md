@@ -20,7 +20,7 @@
 
   -Added LMCC fix <br />
   -Added Ambient Tunnels of Boston <br />
-  -Added Intro Tweaks (get you to character creation faster and smoother) v
+  -Added Intro Tweaks (get you to character creation faster and smoother) <br />
   -Updated South of the Sea - Atom's Storm <br />
   -Updated Levelled Item Framework <br />
   -Updated Bullet in the Chamber <br />
