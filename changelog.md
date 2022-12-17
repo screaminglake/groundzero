@@ -1,3 +1,37 @@
+# 1.2.5
+
+## Major Updates
+
+  -Introduction of "Generic Whispers", a plugin created in-house by our very own Sweet6Shooter for Whispering Chills now adapted to rework core elements of Ground Zero.  Major changes include the removal of rad-removal/prevention items, stealth boys, syringers, combined meds, and bobbleheads both placed and in levelled lists; and renaming of NPC's, armor, ingestibles, and other items to reflect the real world instead of being bound to the Fallout universe hopefully increasing the immersive realism of a real zombie apocalypse <br />
+  
+  -Addition of Commonwealth Supply Caches which places 18 "supply drops" around the Commonwealth left behind by the military for you to find.  The starting chest behind the player home has had most of its items redistributed to these chests with a 25% chance of any of the mod-added armors or weapons spawning in them.  Head to the Recon Bunker on the side of Wicked Shipping Fleet Lockup and obtain the key and list of locations to find these <br />
+  
+  -Full item sorting/tagging using FallUI Icon Library/Sorter plus Complex Sorter which now includes full ECO workbench integration <br />
+  
+  -Adjustments to respawn timers to hopefully prevent cells from respawning so you can consider an area "cleared out" (with the exception of roaming, dynamic hordes and infestations) <br />
+  
+  -Total perk rework with a major update and rebranding of Creative Perks Plus to True Perks <br />
+  
+  -Audio overhaul update with the addition of Lush Ambience and a major update to LOST Audio Tweaks and its patches to provide an overall more immersive and consistent soundscape both indoors and outdoors <br />
+  
+  -Addition of Vivid Weathers MCM Settings Menu thanks as always to M8r for making these.  Now you can easily adjust lighting values and the current weather via its MCM menu <br />
+ 
+## Other
+
+  -Added LMCC fix <br />
+  -Added Ambient Tunnels of Boston <br />
+  -Added Intro Tweaks (get you to character creation faster and smoother) v
+  -Updated South of the Sea - Atom's Storm <br />
+  -Updated Levelled Item Framework <br />
+  -Updated Bullet in the Chamber <br />
+  -Updated Feral Infestations <br />
+  -Updated Thermal Vision Framework <br />
+  -Updated Commonwealth of Decay
+  -Updated Equipment and Crafting Overhaul <br />
+  -Updated Workshop Framework <br />
+  -Removed Some Assembly Required (no longer needed now with PA removed)
+
+
 # 1.2
 
   -Most of the setup workflow for Ground Zero has now been automated via the new MCM settings preset so be sure to read the Holotape and MCM Configuration section of the documentation or watch the new Introduction to Ground Zero video for 1.2 to see the new expedited setup workflow.  Big thanks to M8r98a4f2 for their amazing work with converting cumbersome holotapes into MCM settings menu's which can be stored and easily applied by any user using MCM settings manager! <br />
