@@ -20,13 +20,13 @@
     "links": {
       "image": "https://i.imgur.com/GzURfTC.png",
       "readme": "https://www.fallout4experiences.com/ground-zero",
-      "download": "https://authored-files.wabbajack.org/Ground Zero.wabbajack_152b1361-5bc4-46f7-9f95-12263274b69c",
+      "download": "https://authored-files.wabbajack.org/Ground Zero.wabbajack_32c886e0-494e-45da-8e2e-7a39fe5b0a2c",
       "machineURL": "groundzero",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "Hash": "RIf3gkZMabQ=",
-      "Size": 12527330,
+      "Hash": "ZQwlH3efNks=",
+      "Size": 12527373,
       "NumberOfArchives": 351,
       "SizeOfArchives": 25250576817,
       "NumberOfInstalledFiles": 12105,
@@ -34,7 +34,7 @@
     },
     "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-20T07:55:20.4055508Z",
+    "dateUpdated": "2023-03-20T07:59:32.5056807Z",
     "repositoryName": ""
   }
 ]
