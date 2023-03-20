@@ -1,3 +1,47 @@
+# 2.0 - Survivalist Update!
+
+## Major Updates
+
+Addition of an entirely new profile inspired by games like The Last of Us.  The website documentation for Ground Zero has been significantly revamped to reflect this so read through carefully.  Since the Survivalist profile is brand new there are no changes to log, but the Survivalist profile is really only similar to the Operative profile in theme/concept.  Everything else about how it plays and looks is entirely unique with a hardcore survival post-apocalyptic zombie focus.  Here are some important things to note with the Survivalist profile: <br />
+
+-Avoid large hordes early on.  Resources are scarce and if you are hit too many times by zombies or are exposed to bloater gas you will contract the virus and be forced to obtain a cure within a short period of time (from robovendors or by crafting which requires rare materials and the Medic 1 perk) <br />
+
+-Limb damage to zombies does virtually no damage.  Aim for the torso or, if possible, ideally the head <br />
+
+-The workshop scrapping/building system is largely removed.  Take advantage of your environment to scrounge for supplies like a true survivalist and take advantage of the multitude of player homes and safehouses spread across the Commonwealth instead <br />
+
+-There are several points of access to underground travel via subway lines, sewers, and dirt tunnels.  Look out for them and use them to your advantage <br />
+
+-Like a true survivalist you can craft camping materials in the universal workbench and can also harvest corpses using the Hunter of the Commonwealth system (see its MCM for details and hotkeys) <br />
+
+-The Survivalist profile features No VATS and with that an overhauled perk system based around that where some perks require more than 10 SPECIAL points.  Allocate more SPECIAL points to the SPECIAL traits you most value at the start as the max you can allocate on top of the starting value through gameplay is 9 <br />
+
+### Below is a list of changes to the existing OPERATIVE profile for 2.0:
+
+-Added several watchtowers from which to gain a vantage point <br />
+-opened subway tunnels previously blocked.  There should be no blocked station entrances <br />
+-Added F4 particle patch with Gloomy Glass and Zen's Dark Caves retexture <br />
+-Added The Tunnels (a new way to traverse underground) <br />
+-Added weapon debri crash fix to prevent any further crashes related to NVIDIA rendering <br />
+-Added Modern Soda and water retextures <br />
+-Added 4estGimp AI Edits to make melee and stealth more viable <br />
+-Updated Thermal Vision Framework <br />
+-Updated Ultimate Window Overhaul Redone <br />
+-Updated True Perks <br />
+-Updated LOST Audio Tweaks <br />
+-Updated Workshop Framework <br />
+-Updated Maxwell's World <br />
+-Updated Commonwealth of Decay <br />
+-Updated The Sewers <br />
+-Updated Levelled Item Framework <br />
+-Updated MW - Minigun Replacer <br />
+-Updated Feral Infestations <br />
+-Updated Bullet/Physics Impact overhaul <br />
+-Updated Flicker Fixer
+
+
+
+
 # 1.2.5
 
 ## Major Updates
